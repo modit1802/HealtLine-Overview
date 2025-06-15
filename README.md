@@ -8,7 +8,8 @@ A full-stack medical appointment platform with role-based access.
 - [Admin/Doctor Panel](https://github.com/modit1802/Health-line-admin-doctor-panel)
 
 ### 🌐 Live Demo
-https://healthlineplus.vercel.app
+https://health-line-frontend-rhc2.vercel.app/
+
 
 ### 🔐 Roles
 - **User**: Book appointments
